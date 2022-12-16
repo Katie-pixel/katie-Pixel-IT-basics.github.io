@@ -1,0 +1,23 @@
+<html>
+
+<title> Assignment 1 </title>
+
+<body>
+
+<h1> My Interest In IT </h1>
+<h2> Where Did It Start? </h2>
+
+<p> I have been a student of RMIT since 2017; attracted to the university due to its reputation in the Supply Chain Management field. I began studying online because I was already working full time in the field, in a role of a purchasing assistant. I saw the option to study my chosen degree online through RMIT as a great opportunity to complete my education while continuing to gain skills and experience in the industry, with a great employer.
+
+Through my current, long term employer, I was offered an incredible opportunity in early 2021; the opportunity to expatriate to Germany for three years and work on an international project. It is this experience in my current role, where my interest in IT has evolved. I am working as a Business Process Expert, in purchasing processes on a large-scale digital transformation project. I have found a true passion in working in the dynamic and challenging project environment. To achieve positive outcomes and to progress in my career, any IT knowledge I can bring to my role is highly advantageous. 
+ </p>
+
+<h3> What Do I Hope To Gain? </h3>
+
+<p> I hope to generally expand my knowledge of IT during this course. A basic understanding of coding language, a broader familiarity with software solutions that exist in my industry and an increased understanding of ways IT can support business processes are skills I can immediate apply in my current role and that could benefit my day to day tasks immensely. I aim to achieve these objectives throughout the study period by actively participating in group forums and tutorials, working with a diverse group of students with differing knowledge and skills, and to seek out extra reading and research on these topics during the study period. </p>
+
+<a href = "Index Page.html"> This is a link to Index page </a>
+
+</body>
+
+</html>

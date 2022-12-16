@@ -1,0 +1,45 @@
+<html>
+
+<title> Assignment 1 </title>
+
+<body>
+
+<h1> My Personal Profile </h1>
+<h2> Test Results </h2>
+
+<h3> Results of 16Personalities  Test: </h3>
+
+<img src="16Personalities1.jpg" alt="Results of 16Personalities Test 1" style="width:500px;height:600px;"> <br>
+<img src="16Personalities2.jpg" alt="Results of 16Personalities Test 2" style="width:500px;height:600px;"> <br>
+<img src="16Personalities3.jpg" alt="Results of 16Personalities Test 3" style="width:500px;height:600px;"> <br>
+<img src="16Personalities4.jpg" alt="Results of 16Personalities Test 4" style="width:500px;height:600px;"> <br>
+
+<h3> Results of MaxPersonality Learning Styles Test: </h3>
+
+<img src="MaxPersonality1.jpg" alt="Results of MaxPersonality Test 1" style="width:500px;height:600px;"> <br>
+<img src="MaxPersonality2.jpg" alt="Results of MaxPersonality Test 2" style="width:500px;height:600px;"> <br>
+<img src="MaxPersonality3.jpg" alt="Results of MaxPersonality Test 3" style="width:500px;height:600px;"> <br>
+<img src="MaxPersonality4.jpg" alt="Results of MaxPersonality Test 4" style="width:500px;height:600px;"> <br>
+
+<h3> Results of Big Five Personality Test: </h3>
+
+<a href = "https://bigfive-test.com/result/639a1ce6adada200088af18a"> This is a link to My BigFive Test Results </a> <br>
+<img src="BigFive1.jpg" alt="Results of Big Five Test 1" style="width:500px;height:600px;"> <br>
+
+<h2> What These Results Mean To Me </h2>
+
+
+<p> My personal profile reflects the results of three online test; the 16personalities test, the Personality Max Learning Styles test and the Big Five Personality Test. While some results were conflicting, the results are an interesting representation of my personality and styles that say a lot about me as a team member. <br>
+
+A common theme is that of integrity and dedication, which means a lot to me personally and professionally. I am committed to a task and work hard in any role that I am given; to see these results in all three tests gives me a sense of pride. <br>
+
+My assertive nature and willingness to lead a team are characteristics I see as strengths, but these are also points I need to be conscious of when forming a group for the subject. Working in a team with people I do not know means I need to be aware of these tendencies, and be accommodating rather than combative to other group members with similar traits.<br>
+
+My results show that I am process driven so it would beneficial to create a group with team members who have different strengths- like creativity- as there is the potential then for our characteristics to complement each other’s to achieve good results.
+ </p>
+
+<a href = "Index Page.html"> This is a link to Index page </a>
+
+</body>
+
+</html>
