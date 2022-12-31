@@ -9,18 +9,17 @@
 
 <h3> Results of 16Personalities  Test: </h3>
 
-<img src="16Personalities1.jpg" alt="Results of 16Personalities Test 1" style="width:500px;height:600px;"> <br>
-<img src="16Personalities2.jpg" alt="Results of 16Personalities Test 2" style="width:500px;height:600px;"> <br>
+<img src="16Personalities1.jpg" alt="Results of 16Personalities Test 1" style="width:250px;height:300px;"> <br>
+<img src="16Personalities2.jpg" alt="Results of 16Personalities Test 2" style="width:350px;height:350px;"> <br>
 <img src="16Personalities3.jpg" alt="Results of 16Personalities Test 3" style="width:500px;height:600px;"> <br>
 <img src="16Personalities4.jpg" alt="Results of 16Personalities Test 4" style="width:500px;height:600px;"> <br>
 
 <h3> Results of MaxPersonality Learning Styles Test: </h3>
 
-<img src="MaxPersonality1.jpg" alt="Results of MaxPersonality Test 1" style="width:500px;height:600px;"> <br>
-<img src="MaxPersonality2.jpg" alt="Results of MaxPersonality Test 2" style="width:500px;height:600px;"> <br>
-<img src="MaxPersonality3.jpg" alt="Results of MaxPersonality Test 3" style="width:500px;height:600px;"> <br>
-<img src="MaxPersonality4.jpg" alt="Results of MaxPersonality Test 4" style="width:500px;height:600px;"> <br>
-
+<img src="MaxPersonality1.jpg" alt="Results of MaxPersonality Test 1" style="width:350px;height:300px;"> <br>
+<img src="MaxPersonality2.jpg" alt="Results of MaxPersonality Test 2" style="width:550px;height:350px;"> <br>
+<img src="MaxPersonality3.jpg" alt="Results of MaxPersonality Test 3" style="width:550px;height:350px;"> <br>
+<img src="MaxPersonality4.jpg" alt="Results of MaxPersonality Test 4" style="width:550px;height:350px;"> <br>
 <h3> Results of Big Five Personality Test: </h3>
 
 <a href = "https://bigfive-test.com/result/639a1ce6adada200088af18a"> This is a link to My BigFive Test Results </a> <br>
