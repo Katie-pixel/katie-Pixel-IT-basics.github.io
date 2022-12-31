@@ -16,7 +16,7 @@ Through my current, long term employer, I was offered an incredible opportunity 
 
 <p> I hope to generally expand my knowledge of IT during this course. A basic understanding of coding language, a broader familiarity with software solutions that exist in my industry and an increased understanding of ways IT can support business processes are skills I can immediate apply in my current role and that could benefit my day to day tasks immensely. I aim to achieve these objectives throughout the study period by actively participating in group forums and tutorials, working with a diverse group of students with differing knowledge and skills, and to seek out extra reading and research on these topics during the study period. </p>
 
-<a href = "Index Page.html"> This is a link to Index page </a>
+<a href = "Index.html"> This is a link to Index page </a>
 
 </body>
 
